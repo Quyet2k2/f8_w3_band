@@ -1,0 +1,9 @@
+ghi chú:
+em đã hỏi chat gpt về cách tích hợp: chat nói cần có backend để gửi và xử lý dữ liệu khi gửi về. Vì trang web của em là code thuần và em không có một chút kỹ năng gì về sử dụng framework. Nên em đang rất bế tắc. Khi em yêu cầu gpt đưa ra ví dụ thì chat có đưa một vài cách gửi và xử lý dữ liệu bằng curl hay javascrip... Em đã thử rất nhiều cách, nhưng em lại không thể làm được. Với trình độ hiện tại, em có nên bỏ cuộc không ạ. file nén toàn bộ dự án của em ở dưới 
+
+câu hỏi:
+Em chào anh chị, em đang là sinh viên công nghệ thông tin, và em đang phải làm môn thực tập cơ sở. Em vừa mới tham gia funix, và chưa học được nhiều. Nhưng gặp phải một vấn đề cho một dự án không nằm trong khóa học. Em đang làm một đề tài Xây dựng website cho ban nhạc The Band. giáo viên thực tập cơ sở của em yêu cầu em tích hợp api chat gpt cho website. em có tham khảo và thử nhiều cách. Vì trình độ lập trình em chưa tốt nêncho đến hiện tại em vẫn chưa tìm được cách tối ưu để tích hợp. 
+
+Mô tả:
+Vì kích thước tệp tin > 5MB (hệ thống của funix không cho phép tệp tin lớn hơn 5MB), nên em đã đưa toàn bộ dự án của em lên google drive. 
+Mô hình dự án của em là mô hình mvc. Em dùng xampp làm server. Vì không có cơ sở dữ liệu, nên khả năng cao là mở nó sẽ bị lỗi 
